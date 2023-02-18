@@ -24,7 +24,7 @@ I ❤️ working on **open source** projects, because I believe that sharing kno
 
 My mission 🚀 is to write clean and elegant code that **solves real-world problems**. And if I can do it with a smile 😊 on my face, even better!
 
- Let's create something **amazing together  ** ! 
+ Let's create something **amazing together** ! 
 <p align="left">
 	<img src="https://i.ibb.co/MnHvHM6/Skills.png" width="75px">
 </p>

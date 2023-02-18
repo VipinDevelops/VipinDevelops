@@ -45,7 +45,6 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/github.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/react.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/visual-studio-code-2019.png" width="64px"/>
-	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/intellij-idea.png" width="64px"/>
 </p>
 <br />
 <hr width="1%" />

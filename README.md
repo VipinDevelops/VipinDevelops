@@ -12,7 +12,7 @@
 	
 <br />
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=VipinDevelops&show_icons=true&title_color=C9D1D9&icon_color=58A6FF&border_color=30363D&text_color=C9D1D9&bg_color=0d1117" alt="rahulnavneeth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=VipinDevelops&show_icons=true&title_color=C9D1D9&icon_color=58A6FF&border_color=30363D&text_color=C9D1D9&bg_color=0d1117" alt="VipinDevelops" /></p>
 </div>
 
 

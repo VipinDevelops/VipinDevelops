@@ -39,20 +39,20 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 	<img align="left" src="https://img.icons8.com/color/100/undefined/deno.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/undefined/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="64px">
 	<img align="left" src="https://img.icons8.com/color/100/undefined/graphql.png" width="64px">	
+	<img align="left" src="https://img.icons8.com/color/480/undefined/java-coffee-cup-logo--v1.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/fluency/100/undefined/python.png" width="64"/>
+
+	
 </p>
 <br />
 <hr width="1%" />
 
-<!-- Row 1 [END] -->
-
-<!-- Row 2 [START] -->
 <p align="left">
-	<img align="left" src="https://img.icons8.com/color/480/undefined/java-coffee-cup-logo--v1.png" width="64px"/>
-	<img align="left" src="https://img.icons8.com/fluency/100/undefined/python.png" width="64"/>
 	<img align="left" src="https://img.icons8.com/color/100/undefined/html-5--v1.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/color/100/undefined/css3.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/undefined/postman-api.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/color/100/undefined/git.png" width="64px"/>
+	
 	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/github.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/react.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/visual-studio-code-2019.png" width="64px"/>
@@ -61,7 +61,6 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 </p>
 <br />
 <hr width="1%" />
-<!-- Row 3 [END] -->
 
 
 

@@ -23,7 +23,7 @@ Hey there, **I'm Vipin Chaudhary** - a  developer who's always open to learn and
 
 I ❤️ working on **open source** projects, because I believe that sharing knowledge and collaborating with others is the 🔑 to success.
 
-My mission 🚀 is to write clean and elegant code that **solves real-world problems**. And if I can do it with a smile 😊 on my face, even better!
+My mission 🚀 is to write clean and elegant code that **solves real-world problems**. And if I can do it with a 😊 on my face, even better!
 
  Let's create something **amazing together** ! 
  

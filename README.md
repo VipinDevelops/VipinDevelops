@@ -31,7 +31,6 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 	<img align="left"src="https://img.icons8.com/fluency/100/undefined/node-js.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/react.png" width="64px"/>
 	<img align="left" src="https://nestjs.com/img/logo-small.svg" width="64px">
-	<img align="left" src="https://iconduck.com/icons/11295/next-js" width="64px">
 	<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/undefined/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="64px">	
 	<img align="left" src="https://img.icons8.com/color/480/undefined/java-coffee-cup-logo--v1.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/fluency/100/undefined/python.png" width="64"/>

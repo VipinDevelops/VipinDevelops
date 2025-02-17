@@ -21,9 +21,3 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
  - Reach me: **vipinchaudhary1809@gmail.com**
  - Twitter : [VipinDevelops](https://twitter.com/VipinDevelops)
 <br />
-<p align="left">
-	<img src="https://i.ibb.co/MnHvHM6/Skills.png" width="75px">
-</p>
-
-
-

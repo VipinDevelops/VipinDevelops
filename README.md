@@ -26,9 +26,9 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7063](https://github.com/makeplane/plane/pull/7063) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#7049](https://github.com/makeplane/plane/pull/7049) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🗣 Commented on [#36](https://github.com/RocketChat/Apps.QuickReplies/issues/36#issuecomment-2795834681) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+1. 💪 Opened PR [#7064](https://github.com/makeplane/plane/pull/7064) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 💪 Opened PR [#7063](https://github.com/makeplane/plane/pull/7063) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 💪 Opened PR [#7049](https://github.com/makeplane/plane/pull/7049) in [makeplane/plane](https://github.com/makeplane/plane)
 4. 🗣 Commented on [#55](https://github.com/RocketChat/Apps.QuickReplies/issues/55#issuecomment-2795833993) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 5. 🗣 Commented on [#57](https://github.com/RocketChat/Apps.QuickReplies/issues/57#issuecomment-2795832498) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 6. 🗣 Commented on [#59](https://github.com/RocketChat/Apps.QuickReplies/issues/59#issuecomment-2795831582) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)

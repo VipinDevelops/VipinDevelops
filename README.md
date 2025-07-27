@@ -26,16 +26,16 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/RocketChat/Apps.EmailBridgeNLP/issues/14) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
-2. 🎉 Merged PR [#15](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/15) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
-3. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3095628806) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
-4. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3095627694) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
-5. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3091519184) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
-6. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3091514805) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
-7. 💪 Opened PR [#7444](https://github.com/makeplane/plane/pull/7444) in [makeplane/plane](https://github.com/makeplane/plane)
-8. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3082962021) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
-9. 💪 Opened PR [#7411](https://github.com/makeplane/plane/pull/7411) in [makeplane/plane](https://github.com/makeplane/plane)
-10. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3071982673) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+1. 🗣 Commented on [#17](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/17#issuecomment-3124678348) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+2. 🔒 Closed issue [#14](https://github.com/RocketChat/Apps.EmailBridgeNLP/issues/14) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+3. 🎉 Merged PR [#15](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/15) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+4. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3095628806) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+5. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3095627694) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+6. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3091519184) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+7. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3091514805) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+8. 💪 Opened PR [#7444](https://github.com/makeplane/plane/pull/7444) in [makeplane/plane](https://github.com/makeplane/plane)
+9. 🗣 Commented on [#13](https://github.com/RocketChat/Apps.EmailBridgeNLP/pull/13#issuecomment-3082962021) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+10. 💪 Opened PR [#7411](https://github.com/makeplane/plane/pull/7411) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
   

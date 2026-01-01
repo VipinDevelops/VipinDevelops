@@ -26,16 +26,16 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#8466](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-2. ❌ Labeled PR [#8466](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-3. ❌ Labeled PR [#8466](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-4. ❌ Assigned PR [#8466](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 💪 Opened PR [#8466](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-6. ❌ Merged PR [#8380](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-7. ❌ Labeled PR [#8380](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-8. 💪 Opened PR [#8380](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-9. ❌ Assigned PR [#8380](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-10. ❌ Merged PR [#8331](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+1. ℹ️ Labeled PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
+2. ℹ️ Labeled PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
+3. ℹ️ Labeled PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
+4. ℹ️ Assigned PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
+6. 🎉 Merged PR [#8380](https://github.com/makeplane/plane/pull/8380) in [makeplane/plane](https://github.com/makeplane/plane)
+7. ℹ️ Labeled PR [#8380](https://github.com/makeplane/plane/pull/8380) in [makeplane/plane](https://github.com/makeplane/plane)
+8. 💪 Opened PR [#8380](https://github.com/makeplane/plane/pull/8380) in [makeplane/plane](https://github.com/makeplane/plane)
+9. ℹ️ Assigned PR [#8380](https://github.com/makeplane/plane/pull/8380) in [makeplane/plane](https://github.com/makeplane/plane)
+10. 🎉 Merged PR [#8331](https://github.com/makeplane/plane/pull/8331) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
   

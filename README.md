@@ -26,16 +26,16 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#36](https://github.com/RocketChat/Apps.QuickReplies/issues/36) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-2. ℹ️ Labeled PR [#60](https://github.com/RocketChat/Apps.QuickReplies/pull/60) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-3. 🎉 Merged PR [#8494](https://github.com/makeplane/plane/pull/8494) in [makeplane/plane](https://github.com/makeplane/plane)
-4. ℹ️ Labeled PR [#8494](https://github.com/makeplane/plane/pull/8494) in [makeplane/plane](https://github.com/makeplane/plane)
-5. ℹ️ Assigned PR [#8494](https://github.com/makeplane/plane/pull/8494) in [makeplane/plane](https://github.com/makeplane/plane)
-6. 💪 Opened PR [#8494](https://github.com/makeplane/plane/pull/8494) in [makeplane/plane](https://github.com/makeplane/plane)
-7. ℹ️ Labeled PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
-8. ℹ️ Labeled PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
-9. ℹ️ Labeled PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
-10. ℹ️ Assigned PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
+1. ℹ️ Labeled PR [#8563](https://github.com/makeplane/plane/pull/8563) in [makeplane/plane](https://github.com/makeplane/plane)
+2. ℹ️ Assigned PR [#8563](https://github.com/makeplane/plane/pull/8563) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 💪 Opened PR [#8563](https://github.com/makeplane/plane/pull/8563) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 🔒 Closed issue [#36](https://github.com/RocketChat/Apps.QuickReplies/issues/36) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+5. ℹ️ Labeled PR [#60](https://github.com/RocketChat/Apps.QuickReplies/pull/60) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+6. 🎉 Merged PR [#8494](https://github.com/makeplane/plane/pull/8494) in [makeplane/plane](https://github.com/makeplane/plane)
+7. ℹ️ Labeled PR [#8494](https://github.com/makeplane/plane/pull/8494) in [makeplane/plane](https://github.com/makeplane/plane)
+8. ℹ️ Assigned PR [#8494](https://github.com/makeplane/plane/pull/8494) in [makeplane/plane](https://github.com/makeplane/plane)
+9. 💪 Opened PR [#8494](https://github.com/makeplane/plane/pull/8494) in [makeplane/plane](https://github.com/makeplane/plane)
+10. ℹ️ Labeled PR [#8466](https://github.com/makeplane/plane/pull/8466) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
   
